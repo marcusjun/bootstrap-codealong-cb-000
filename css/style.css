@@ -81,3 +81,7 @@ img, video, audio, iframe, table, form {
 .row{
   margin-bottom: 20px;
 }
+
+#social li a {
+  padding: 5px;
+}
